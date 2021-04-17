@@ -48,6 +48,8 @@ if answer == "yes":
     # except: is the exception for the try statement
     # int turns the string into an integer
     # the break statement ends the loop but isn't required
+    # source for program not crashing when a string is entered
+    #https://sites.google.com/site/profvanselow/swebok/cmp-cf/15-human-factors
     while True:
         try:
             # the int function converts the amount purchased into an integer
